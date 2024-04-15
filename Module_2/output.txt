@@ -1,0 +1,6 @@
+Addition = 26 
+Subtraction = 16 
+Multiplication = 105 
+Division = 4 
+Modulus = 1 
+Number = 6.25
