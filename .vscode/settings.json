@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "ALFASUNNY"
-    ]
+    ],
+    "files.associations": {
+        "stdio.h": "c"
+    }
 }
