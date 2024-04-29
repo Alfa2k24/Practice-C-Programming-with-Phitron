@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void solve(){
+void solution(){
 
     int key;
     scanf("%d",&key);
@@ -24,11 +24,11 @@ void solve(){
 }
 
 int main(){
-    int t;
-    scanf("%d",&t);
-    while (t--)
+    int n;
+    scanf("%d",&n);
+    while (n--)
     {
-        solve();
+        solution();
     }
     
 }
