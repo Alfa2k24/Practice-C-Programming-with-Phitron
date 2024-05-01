@@ -6,7 +6,7 @@ int main(){
     int star = 1;
 
     for(int i = 1; i <= (2*num); i++){
-                // printf("i=%d s=%d k=%d \n",i,space,star);
+                printf("i=%d s=%d k=%d \n",i,space,star);
         for(int j = 1; j <= space; j++){
             printf(" ");
         }
