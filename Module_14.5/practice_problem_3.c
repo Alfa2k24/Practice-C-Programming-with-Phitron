@@ -25,7 +25,7 @@ void char_to_ascii_no_return_no_parameter(){
     char ch;
     scanf("%c",&ch);
     // int chr = ch;
-    printf("Rule 4 = %d \n",ch);
+    printf("Rule 4 = %c \n",ch);
     // Accepted
 }
 
